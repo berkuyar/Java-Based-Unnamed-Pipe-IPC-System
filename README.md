@@ -51,5 +51,6 @@ c22 8
 
 ---
 
-**Developed by Berk Uyar**
+Developed by 
+Berk Uyar
 
